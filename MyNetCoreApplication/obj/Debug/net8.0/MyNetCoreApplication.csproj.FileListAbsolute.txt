@@ -23,3 +23,4 @@
 /Users/vidurangagunarathne/Desktop/Tutorials/Microsoft/MyNetCoreApplication/MyNetCoreApplication/obj/Debug/net8.0/MyNetCoreApplication.pdb
 /Users/vidurangagunarathne/Desktop/Tutorials/Microsoft/MyNetCoreApplication/MyNetCoreApplication/obj/Debug/net8.0/MyNetCoreApplication.genruntimeconfig.cache
 /Users/vidurangagunarathne/Desktop/Tutorials/Microsoft/MyNetCoreApplication/MyNetCoreApplication/obj/Debug/net8.0/ref/MyNetCoreApplication.dll
+/Users/vidurangagunarathne/Desktop/Tutorials/Microsoft/MyNetCoreApplication/MyNetCoreApplication/obj/Debug/net8.0/MyNetCoreApplication.sourcelink.json
